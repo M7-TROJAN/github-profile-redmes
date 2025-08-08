@@ -68,10 +68,6 @@ HTML/CSS ███████████████████████�
 <!-- Featured Projects -->
 ## � Featured Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" alt="Projects"/>
-</div>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
